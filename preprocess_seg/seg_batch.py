@@ -23,8 +23,7 @@ except LookupError:
     nltk.download('punkt_tab')
     nltk.download('averaged_perceptron_tagger')
 
-# Log in to Hugging Face
-login(token="REMOVED")
+
 
 # Initialize LangSAM model
 model = LangSAM()
