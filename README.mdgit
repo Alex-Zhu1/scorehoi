@@ -1,0 +1,1 @@
+# scorehoi initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Alex-Zhu1/scorehoi.gitgit push -u origin main
