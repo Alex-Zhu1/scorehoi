@@ -7,7 +7,7 @@ from lang_sam import LangSAM
 import numpy as np
 
 # Log in to Hugging Face
-login(token="REMOVED")
+# login(token="REMOVED")
 
 # Initialize LangSAM model
 model = LangSAM()
